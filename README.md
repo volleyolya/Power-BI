@@ -11,4 +11,4 @@
 
 В срезах отчета я предусмотрела выбор года, региона (субъект РФ) и пол.
 
-С работой можно ознакомиться в [PDF](https://github.com/volleyolya/Power-BI/blob/main/population%202018-2025.pdf) или скачать [PBIX](https://github.com/volleyolya/Power-BI/blob/main/population%202018-2025.pbix) файл, нажав 'view row' для полной функциональности.
+С работой можно ознакомиться в [PDF](https://github.com/volleyolya/Power-BI/blob/main/population.pdf) или скачать [PBIX](https://github.com/volleyolya/Power-BI/blob/main/population%202018-2025.pbix) файл, нажав 'view row' для полной функциональности.
